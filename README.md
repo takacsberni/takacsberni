@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Berni</h1>
 <h3 align="center">Currently I am studying full stack development at Codecool in Budapest</h3>
 
-- 🌱 I’m currently learning **React and Spring Security**
+- 🌱 I’m currently learning **React and TypeScript**
 
-- 📫 How to reach me **takacsberni@gmail.com**
+- 📫 How to reach me: **takacsberni@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
