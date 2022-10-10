@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berni</h1>
 <h3 align="center">Currently I am studying full stack development at Codecool in Budapest</h3>
 
-- 🌱 I’m currently learning **React and TypeScript and Auth0**
+- 🌱 I’m currently learning **React, TypeScript and Material UI**
 
 - 📫 How to reach me: **takacsberni@gmail.com**
 
