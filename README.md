@@ -2,7 +2,7 @@
 <h3 align="center">Currently I am studying full stack development at Codecool in Budapest</h3>
 - :maple_leaf: I’m currently learning about Redux
 
-- 🌱 Recently I got to know these: **React, TypeScript and Material UI**
+-  🌱 Recently I got to know these: **React, TypeScript and Material UI**
 
 - 📫 How to reach me: **takacsberni@gmail.com**
 
