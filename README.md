@@ -3,7 +3,7 @@
 
 
 -  :maple_leaf: I’m currently learning about Redux
--  🌱 Recently I got to know these: **React, TypeScript and Material UI**
+-  🌱 Recently I got to know these: **React, TypeScript, Material UI and AuthO**
 
 - 📫 How to reach me: **takacsberni@gmail.com**
 
