@@ -2,8 +2,8 @@
 <h3 align="center">Currently I am studying full stack development at Codecool in Budapest</h3>
 
 
--  :maple_leaf: I’m currently learning about **Angular**
--  🌱 Recently I got to know these: **React, TypeScript, Redux, Material UI and AuthO**
+-  :maple_leaf: I’m currently learning about **Websockets**
+-  🌱 Recently I got to know these: **SASS, Angular and Redux basics, TypeScript, Material UI, AuthO, Node.JS and React**
 
 - 📫 How to reach me: **takacsberni@gmail.com**
 
